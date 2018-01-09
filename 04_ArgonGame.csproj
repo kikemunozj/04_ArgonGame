@@ -333,7 +333,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Materials\Rocks and Boulders 2\Shaders\RotateGameObject.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -341,6 +340,7 @@
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
+    <Compile Include="Assets\Scripts\MusiPlayer.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\StartScreen.cs" />
   </ItemGroup>

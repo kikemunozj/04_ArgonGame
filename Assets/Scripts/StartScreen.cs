@@ -7,10 +7,6 @@ public class StartScreen : MonoBehaviour {
 
     float levelLoadDelay = 2f;
 
-    private void Awake()
-    {
-        DontDestroyOnLoad(gameObject);
-    }
     void Start()
     {
         Invoke("LoadFirstScene", levelLoadDelay);
