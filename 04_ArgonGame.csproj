@@ -340,8 +340,12 @@
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\Particles\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
+    <Compile Include="Assets\Scripts\CollisionHandler.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\MusiPlayer.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ScoreBoard.cs" />
+    <Compile Include="Assets\Scripts\SelfDestructor.cs" />
     <Compile Include="Assets\Scripts\StartScreen.cs" />
   </ItemGroup>
   <ItemGroup>
